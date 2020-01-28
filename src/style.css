@@ -1,0 +1,23 @@
+body {
+  font-family: 'Roboto', sans-serif;
+}
+
+.ezslots>.window{	
+	overflow:hidden;
+	display:inline-block;
+  margin-bottom: 40px;
+  border: 1px solid black;
+  font-size: 3em;
+  font-weight: 700;
+}
+.ezslots>.window>.slider>.symbol{
+	text-align:center;
+	display:table;	
+}
+.ezslots>.window>.slider>.symbol>.content{
+      padding:0px;
+      margin:0px;
+      display:table-cell;
+      text-align:center;
+      vertical-align:middle;
+}
